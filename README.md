@@ -1,3 +1,0 @@
-# myprojects
-
-Something
